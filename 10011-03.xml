@@ -1,4 +1,6 @@
 <?xml?>
 <!-- -->
 
-texte
+<balise>
+  <test>ok?</test>
+</balise>
